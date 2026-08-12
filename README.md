@@ -10,8 +10,6 @@ Repositorio correspondiente al Taller de Python de la asignatura **Procesamiento
 
 ## Contenido
 
-El repositorio contiene los cuadernos desarrollados durante el taller:
-
 - `01-Python-Cadenas.ipynb`
 - `02-Python-Tuplas.ipynb`
 - `03-Python-Listas.ipynb`
@@ -25,6 +23,4 @@ El repositorio contiene los cuadernos desarrollados durante el taller:
 
 ## Descripción
 
-En los cuadernos se desarrollan ejercicios de cadenas, tuplas, listas, conjuntos, diccionarios, condiciones, bucles, funciones y clases en Python. También se incluye el práctico de bono.
-
-Cada notebook conserva el material base del taller y agrega el desarrollo de los ejercicios, una identificación del autor y una conclusión corta sobre lo trabajado.
+En los cuadernos se desarrollan los ejercicios del taller y se muestran las salidas obtenidas al ejecutar las actividades. También se incluyen conclusiones al final de cada cuaderno.
